@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ania/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ania/static/js/main.f1daee60.chunk.js",
+    "main.js.map": "/ania/static/js/main.f1daee60.chunk.js.map",
+    "runtime-main.js": "/ania/static/js/runtime-main.57f0eb97.js",
+    "runtime-main.js.map": "/ania/static/js/runtime-main.57f0eb97.js.map",
+    "static/js/2.f4d88451.chunk.js": "/ania/static/js/2.f4d88451.chunk.js",
+    "static/js/2.f4d88451.chunk.js.map": "/ania/static/js/2.f4d88451.chunk.js.map",
+    "static/js/3.1d13bc3c.chunk.js": "/ania/static/js/3.1d13bc3c.chunk.js",
+    "static/js/3.1d13bc3c.chunk.js.map": "/ania/static/js/3.1d13bc3c.chunk.js.map",
+    "index.html": "/ania/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ania/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f4d88451.chunk.js.LICENSE.txt": "/ania/static/js/2.f4d88451.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ania/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57f0eb97.js",
+    "static/js/2.f4d88451.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f1daee60.chunk.js"
+  ]
+}
